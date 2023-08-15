@@ -150,6 +150,11 @@ figure {
     padding-right: 20%;
 }
 
+.about-hero {
+    display: flex;
+    justify-content: space-between;
+}
+
 #call-to-action {
     background-color: #3882f6;
     display: flex;
