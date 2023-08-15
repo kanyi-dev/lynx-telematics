@@ -130,11 +130,7 @@ figure {
     justify-content: center;
 }
 
-blockquote {
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 
 #quote blockquote {
     display: flex;
@@ -200,4 +196,15 @@ footer p {
 
 .fleet {
     background-color: rgb(129, 211, 214);
+}
+
+.logos {
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.bg-color {
+    background-color: antiquewhite;
+    padding: 20px;
 }
