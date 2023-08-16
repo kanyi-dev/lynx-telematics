@@ -131,6 +131,11 @@ button a {
     border-radius: 15px;
 }
 
+.eco {
+    display: flex;
+    justify-content: space-between;
+}
+
 .boys-playing {
     display:flex;
     justify-content: center;
@@ -140,6 +145,10 @@ button a {
 
 figure {
     margin: 10px;
+}
+
+.eco-1 {
+    align-items: center;
 }
 
 .section-2 {
