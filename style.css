@@ -84,6 +84,10 @@ figcaption {
     text-transform: uppercase;
 }
 
+.about-p {
+    padding: 0 10%;
+}
+
 button a {
     text-decoration: none;
     color: #fff;
