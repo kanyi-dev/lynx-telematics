@@ -136,6 +136,16 @@ figure {
     justify-content: center;
 }
 
+.maintain {
+    font-size: 1.17em;
+    font-weight: 600;
+}
+
+.tracking-section{
+    display: flex;
+    align-content: center;
+}
+
 .section-2 h1 {
     margin-top: 15px;
     margin-bottom: 15px;
