@@ -84,6 +84,18 @@ figcaption {
     text-transform: uppercase;
 }
 
+#section-1 {
+    padding: 0;
+    margin: 0;
+}
+
+#fleet {
+    background-color: rgb(129, 211, 214);
+    display: flex;
+    padding: 50px;
+    margin: -0;
+}
+
 .about-p {
     padding: 0 10%;
 }
@@ -136,12 +148,16 @@ figure {
     justify-content: center;
 }
 
+#description-h3 {
+    font-weight: 300;
+}
+
 .maintain {
     font-size: 1.17em;
     font-weight: 600;
 }
 
-.tracking-section{
+.tracking-section {
     display: flex;
     align-content: center;
 }
