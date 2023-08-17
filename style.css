@@ -206,6 +206,11 @@ figure {
   justify-content: space-between;
 }
 
+.align-web {
+  display: flex;
+  align-items: center;
+}
+
 #call-to-action {
   background-color: #3882f6;
   display: flex;
