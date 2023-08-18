@@ -19,7 +19,7 @@ nav img {
   padding-left: 20px;
 }
 
-.whatsapp {
+.button {
   color: #fff;
   border: 2px solid #fff;
   border-radius: 10px;
@@ -27,20 +27,22 @@ nav img {
 }
 
 .hero {
+  width: auto;
   display: flex;
   padding: 50px;
+}
+
+.hero h1 {
+  color: #f9faf8;
+  font-size: 48px;
 }
 
 .hero-section {
   padding: 35px;
 }
 
-.hero-h1 {
-  color: #f9faf8;
-  font-size: 48px;
-}
 
-.hero-p {
+.hero p {
   font-size: 18px;
   color: #e5e7eb;
 }
@@ -70,8 +72,6 @@ nav ul li {
 nav ul li a {
   color: #fff;
 }
-
-
 
 button {
   background-color: #3882f6;
@@ -108,7 +108,7 @@ button a {
   color: #fff;
 }
 
-.girl-pic {
+.hero img {
   width: 400px;
 }
 
