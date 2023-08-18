@@ -19,6 +19,32 @@ nav img {
   padding-left: 20px;
 }
 
+nav {
+  height: 80px;
+}
+
+nav h1 {
+  float: left;
+  line-height: 80px;
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+nav ul {
+  float: right;
+  line-height: 80px;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style: none;
+  padding: 0 5px;
+}
+
+nav ul li a {
+  color: #fff;
+}
+
 .button {
   color: #fff;
   border: 2px solid #fff;
@@ -47,31 +73,10 @@ nav img {
   color: #e5e7eb;
 }
 
-nav {
-  height: 80px;
+.hero img {
+  width: 400px;
 }
 
-nav h1 {
-  float: left;
-  line-height: 80px;
-  font-size: 24px;
-  color: #f9faf8;
-}
-
-nav ul {
-  float: right;
-  line-height: 80px;
-}
-
-nav ul li {
-  display: inline-block;
-  list-style: none;
-  padding: 0 5px;
-}
-
-nav ul li a {
-  color: #fff;
-}
 
 button {
   background-color: #3882f6;
@@ -108,9 +113,6 @@ button a {
   color: #fff;
 }
 
-.hero img {
-  width: 400px;
-}
 
 
 
