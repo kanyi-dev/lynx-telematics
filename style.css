@@ -63,7 +63,7 @@ nav ul li a {
   font-size: 48px;
 }
 
-.hero-section {
+.hero-text, #description {
   padding: 35px;
 }
 
@@ -163,7 +163,7 @@ figure {
   font-weight: 600;
 }
 
-.tracking-section {
+.des {
   display: flex;
   align-content: center;
 }
