@@ -3626,6 +3626,7 @@ input, select, textarea {
 	#contact {
 		border-bottom: solid 1px rgba(212, 212, 255, 0.1);
 		overflow-x: hidden;
+		padding-left: 10%;
 	}
 
 		#contact > .inner {
